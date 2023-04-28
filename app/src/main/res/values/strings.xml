@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="start">始める</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="remain">残り時間</string>
+    <string name="rock">グー</string>
+    <string name="scissors">チョキ</string>
+    <string name="paper">パー</string>
+</resources>
